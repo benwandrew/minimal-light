@@ -10,8 +10,8 @@ currently, i am an apprentice researcher at the <a href="https://www.brown.edu/c
 
 ### current research interests
 - person-specific predictive models of somatic symptoms
-- psychometrics, especially instrument validation and multivariate longitudinal measurement of individual differences
-- methods: adaptive & optimal experimental design, active learning, dynamic treatment regimes (informed by time-varying observational data), multimodal data integraion & risk stratification
+- psychometrics: instrument validation, multivariate longitudinal measurement of individual differences
+- methods: adaptive & optimal experimental design, active learning, dynamic treatment regimes (informed by time-varying observational data), change point detection multimodal data integraion & risk stratification
 
 ### other interests
 - translational research tools 
